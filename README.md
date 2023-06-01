@@ -1,6 +1,6 @@
 # Google Clone
-Gerald Support Chat is a simple support chat on our website application which handle customer service for 
-inquiring or solving problems by chatting with the admin user.
+A simple google clone application which showcase the search functionality of the google using Google custom 
+search API to search any website on the internet and this application also provide images section like in the google.
 
 technology used:
  * React
